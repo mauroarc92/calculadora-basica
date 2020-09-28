@@ -39,7 +39,7 @@ input[type=text] {
     background-color: white;
     color: black;
     padding: 8px;
-    width: 50%;
+    width: 60%;
     margin-top: 30px;
     border: none;
     font-size: 20px;
@@ -63,12 +63,12 @@ h3 {
     font-family: 'Courgette', cursive;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
     
     .container{
         
         max-width: 60%;
-        height:520px ;
+        height:460px ;
         
        
     }   

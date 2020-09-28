@@ -61,7 +61,7 @@ h3 {
     font-family: 'Courgette', cursive;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
     
     .container{
           color: tomato;

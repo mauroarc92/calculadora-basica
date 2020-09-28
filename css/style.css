@@ -64,9 +64,9 @@ h3 {
 @media (max-width: 360px) {
     
     .container{
-          color: tomato;
+        color: tomato;
         max-width: 60%;
-        height:500px ;
+        height:420px ;
         
        
     }
